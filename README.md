@@ -2,4 +2,4 @@
 
 Simple Rock Paper Scissors game.
 
-Did 2 versions of the game. One simple script "ClassMain.py" and another "main.py" using class objects.
+Did 2 versions of the game. One simple script "main.py" and another "ClassMain.py" using class objects.
